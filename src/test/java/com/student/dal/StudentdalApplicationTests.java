@@ -11,6 +11,7 @@ import com.student.dal.repos.StudentRepository;
 class StudentdalApplicationTests {
 
 	@Autowired
+	// student repositoty
 	private StudentRepository studentRepository;
 	
 	@Test
